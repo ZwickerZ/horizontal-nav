@@ -1,5 +1,6 @@
 html {
   background-color: #dbd6cf;
+  box-sizing: border-box;
 }
 
 header {
