@@ -1,0 +1,30 @@
+html {
+  background-color: #dbd6cf;
+}
+
+header {
+  background-color: #79756f;
+  border: 3px solid #595652;
+}
+h1 {
+  font-family: "Bevan", serif;
+  text-align: center;
+  color: white;
+
+}
+
+.nav {
+  text-align: center;
+}
+.nav li{
+  list-style-type: none;
+  font-family: sans-serif;
+  display: inline-block;
+  background-color: #713837;
+  padding: 1em;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
