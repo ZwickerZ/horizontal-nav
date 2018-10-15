@@ -9,10 +9,11 @@ header {
 }
 
 body {
-    margin: 0;
+  margin: 0;
 }
+
 h1 {
-  font-family: "Bevan", serif;
+  font-family: Bevan, serif;
   text-align: center;
   color: white;
   margin: .3em;
@@ -21,6 +22,7 @@ h1 {
 .nav {
   text-align: center;
 }
+
 .nav li{
   list-style-type: none;
   font-family: sans-serif;
@@ -31,10 +33,10 @@ a {
   color: white;
   text-decoration: none;
   background-color: #713837;
-  padding: 0.6em;
+  padding: .6em;
   border-radius: 3px;
   line-height: 1.5;
-  margin: 0.1em;
+  margin: .1em;
 }
 
 a:hover {
